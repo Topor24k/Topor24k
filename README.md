@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Topor24k
 - 👀 I’m interested in Books
-- 🌱 I’m currently learning Java
-- 💞️ I’m a First year College Student
+- 🌱 I’m currently learning Java, Python, PHP, React, HTML/CSS/JS
+- 💞️ I’m a College Student
 - 📫 How to reach me - Fb: Kayeen Campana
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
 <!---
 Topor24k/Topor24k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
