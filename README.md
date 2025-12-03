@@ -72,10 +72,7 @@
 ---
 
 ### 🌟 “Code. Collaborate. Create Impact.”
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Topor24k&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topor24k&layout=compact&theme=tokyonight" alt="Top Languages" width="40%">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Topor24k&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topor24k&layout=compact&theme=tokyonight" alt="Top Languages" width="41%"> </p>
 
 ---
 
