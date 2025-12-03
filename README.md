@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 🎓 **BS Computer Science Student** at *University of Mindanao*  
-- 💡 **Builder:** [**MINDBRIDGE**] – A Health-Tech project focused on mental wellness and connection  
+- 💡 **FREELANCER:** - I focus on Full-Stack Web Development and technical/creative writing. I bring ideas to life by building responsive, scalable web applications—handling both frontend UI/UX and backend logic. 
 - 🤖 Passionate about **Blockchain**, **Web3**, **Web Development**, and **Creative Writing**  
 - 💬 I love **collaborating** with others, contributing to open-source projects, and learning through hands-on experience.  
 
