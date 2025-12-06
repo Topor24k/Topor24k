@@ -69,10 +69,10 @@
 
 ### 📊 Most Used Languages (Stats)
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topor24k&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
-
+](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Topor24k&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Connect With Me
