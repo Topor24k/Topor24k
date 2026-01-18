@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#4FA8FF;">Kayeen M. Campana</span></h1>
 
 <p align="center">
-  🎓 3rd Year <b>Computer Science Student</b> | 💻 Aspiring <b>Web & Blockchain Developer</b><br>
+  🎓 3rd Year <b>Computer Science Student</b> | 💻 Aspiring <b>Web Developer</b><br>
   🌍 Passionate about building technology that empowers communities and creates real social impact.
 </p>
 
@@ -11,7 +11,7 @@
 
 * 🎓 **BS Computer Science Student** at *University of Mindanao*
 * 💡 **Freelancer:** - I focus on Full-Stack Web Development and technical/creative writing. I bring ideas to life by building responsive, scalable web applications—handling both frontend UI/UX and backend logic.
-* 🤖 Passionate about **Blockchain**, **Web3**, **Web Development**, and **Creative Writing**
+* 🤖 Passionate about **Web Development**, and **Creative Writing**
 * 💬 I love **collaborating** with others, contributing to open-source projects, and learning through hands-on experience.
 
 ---
@@ -44,7 +44,7 @@
 ### 💡 Special Interests
 
 🧬 Health Tech Innovation
-🔗 Blockchain & Web3 Development
+🔗 Web3 Development
 🧠 AI & Machine Learning Projects
 🌍 Open Source Contributions
 🎮 Game Development & Creative Design
