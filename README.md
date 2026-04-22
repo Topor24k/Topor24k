@@ -5,6 +5,7 @@
   🌍 Passionate about building technology that empowers communities and creates real social impact.
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Topor24k-git&color=3b82f6&style=flat-square&label=Profile+Views)
 ---
 
 ### 🚀 About Me
